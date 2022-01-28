@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/noahfarinas-react-resume/static/js/main.07c97eb5.js",
+    "main.css": "/noahfarinas-react-resume/static/css/main.4eabb71b.css",
+    "main.js": "/noahfarinas-react-resume/static/js/main.a9a2eba8.js",
     "index.html": "/noahfarinas-react-resume/index.html",
-    "main.07c97eb5.js.map": "/noahfarinas-react-resume/static/js/main.07c97eb5.js.map"
+    "main.4eabb71b.css.map": "/noahfarinas-react-resume/static/css/main.4eabb71b.css.map",
+    "main.a9a2eba8.js.map": "/noahfarinas-react-resume/static/js/main.a9a2eba8.js.map"
   },
   "entrypoints": [
-    "static/js/main.07c97eb5.js"
+    "static/css/main.4eabb71b.css",
+    "static/js/main.a9a2eba8.js"
   ]
 }
